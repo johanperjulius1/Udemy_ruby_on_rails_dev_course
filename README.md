@@ -5,3 +5,5 @@ Full course can be found https://www.udemy.com/course/the-complete-ruby-on-rails
 
 ## A collection of excercises
 The course is divided into 15 different sections.
+
+test
